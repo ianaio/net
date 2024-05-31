@@ -1,6 +1,6 @@
 [package]
 name = "ianaio-net"
-version = "0.5.0"
+version = "0.1.0"
 authors = [
     "IanaIO Rust and WebAssembly Working Group",
     "Jaroslaw Cichon <dev@iana.io>",
