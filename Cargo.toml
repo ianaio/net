@@ -9,10 +9,12 @@ edition = "2021"
 license-file = "LICENSE.txt"
 repository = "https://github.com/rustwasm/ianaio"
 description = "HTTP requests library for WASM Apps"
+homepage = "https://rustwasm.iana.io/net"
+documentation = "https://docs.iana.io/rustwasm/net"
 readme = "README.md"
 keywords = ["requests", "http", "wasm", "websockets"]
 categories = ["wasm", "web-programming::http-client", "api-bindings"]
-rust-version = "1.64"
+rust-version = "1.80"
 
 [package.metadata.docs.rs]
 all-features = true
